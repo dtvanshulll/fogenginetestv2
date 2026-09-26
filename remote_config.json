@@ -1,6 +1,6 @@
 {
   "_comment": "RemoteConfig fetched at login. Per game: automode/floating = launch modes; version = supported game versionName (EXACT match \u00e2\u20ac\u201d a wrong/old value BLOCKS launch, leave \"\" to disable the version gate); features aim/esp/bullettrack/sdk = \"safe\" or \"unsafe\" (anything not \"safe\" shows the red icon + tab warning).",
-  "download": "https://github.com/dtvanshulll/fogenginetest/releases/download/s%2Cn/fogtest.zip",
+  "download": "https://github.com/dtvanshulll/fogenginetestv2/releases/download/oekoA/PHYSX.zip",
   "games": {
     "com.pubg.imobile": {
       "automode": false,
