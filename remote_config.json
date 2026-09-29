@@ -16,7 +16,7 @@
     "com.tencent.ig": {
       "automode": false,
       "floating": true,
-      "version": "4.5.0",
+      "version": "4.6.0",
       "features": {
         "aim": "safe",
         "esp": "safe",
@@ -27,7 +27,7 @@
     "com.pubg.krmobile": {
       "automode": false,
       "floating": true,
-      "version": "4.5.0",
+      "version": "4.6.0",
       "features": {
         "aim": "safe",
         "esp": "safe",
@@ -38,7 +38,7 @@
     "com.vng.pubgmobile": {
       "automode": false,
       "floating": true,
-      "version": "4.5.0",
+      "version": "4.6.0",
       "features": {
         "aim": "safe",
         "esp": "safe",
@@ -49,7 +49,7 @@
     "com.rekoo.pubgm": {
       "automode": false,
       "floating": true,
-      "version": "4.5.0",
+      "version": "4.6.0",
       "features": {
         "aim": "safe",
         "esp": "safe",
